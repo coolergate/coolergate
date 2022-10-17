@@ -1,6 +1,6 @@
 # Coolergate
-Discord: coolergate#2031
-Roblox: guilemos2006
+``Discord: coolergate#2031``
+``Roblox: guilemos2006``
 
 - Game developer from Brazil
 - I'm currently learning Russian, but i know fluent English and i'm native Portuguese
