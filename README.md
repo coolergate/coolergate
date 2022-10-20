@@ -9,4 +9,4 @@
 # Ongoing projects
 - Downstreets, a fast paced streets game taking place on Sector-11.
 - Escape From Nordeste, a heavily Escape From Tarkov inspired game taking place on Brazil.
-- Nix Arena, a arena shooter that attempts to create a mix between Quake and Unreal Tournament.
+- Futura Arena, a arena shooter that attempts to create a mix between Quake, Unreal Tournament and DUSK.
