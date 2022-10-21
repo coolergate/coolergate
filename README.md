@@ -3,7 +3,7 @@
 ``Roblox: guilemos2006``
 
 - Game developer from Brazil
-- I'm currently learning Russian, but i know fluent English and i'm native Portuguese
+- I'm learning Russian, fluent English and i'm native Portuguese
 - I work with TypeScript, Lua and C#
 
 # Ongoing projects
