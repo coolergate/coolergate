@@ -6,7 +6,7 @@
 - I'm learning Russian, fluent English and i'm native Portuguese
 - I work with TypeScript, Lua and C#
 
-# Ongoing projects
-- Downstreets, a fast paced streets game taking place on Sector-11.
-- Escape From Nordeste, a heavily Escape From Tarkov inspired game taking place on Brazil.
+# Ongoing Roblox projects
+- Downstreets, a fast paced streets game creating a mix between all known streets game
+- Escape From Nordeste, a heavily **Escape From Tarkov** inspired game taking place on Brazil.
 - Futura Arena, a arena shooter that attempts to create a mix between Quake, Unreal Tournament and DUSK.
