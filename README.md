@@ -1,12 +1,13 @@
 # Coolergate
 ``Discord: coolergate#2031``
 ``Roblox: guilemos2006``
+``Steam: panicq``
 
 - Game developer from Brazil
-- I'm learning Russian, fluent English and i'm native Portuguese
+- Learning Russian, fluent English and native Portuguese
 - I work with TypeScript, Lua and C#
 
-# Ongoing Roblox projects
-- Downstreets, a fast paced streets game creating a mix between all known streets game
-- Escape From Nordeste, a heavily **Escape From Tarkov** inspired game taking place on Brazil.
-- Futura Arena, a arena shooter that attempts to create a mix between Quake, Unreal Tournament and DUSK.
+# Ongoing projects
+- Downstreets (Roblox), fast paced streets game with an old school look, veicles and a huge map to explore.
+- RoadMania (Roblox), an actual good trackmania port to Roblox.
+- Futura Arena, an arena shooter that attempts to create a mix between Quake, Unreal Tournament and DUSK.
