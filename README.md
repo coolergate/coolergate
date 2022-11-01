@@ -9,5 +9,5 @@
 
 # Ongoing projects
 - Downstreets (Roblox), fast paced streets game with an old school look, veicles and a huge map to explore.
-- RoadMania (Roblox), an actual good trackmania port to Roblox.
+- RoadMania (Roblox), an actual good TrackMania port over to Roblox.
 - Futura Arena, an arena shooter that attempts to create a mix between Quake, Unreal Tournament and DUSK.
