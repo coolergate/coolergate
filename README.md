@@ -5,3 +5,4 @@
 
 - Learning Russian, fluent English and native Portuguese
 - TypeScript, Lua and C#
+- I hate Lua
