@@ -16,5 +16,7 @@ Languages:
 
 Discord: coolergate#2031
 [Roblox](https://www.roblox.com/users/83009214/profile)
+
 [Roblox talenthub](https://talent.roblox.com/creators/83009214)
+
 [Steam](https://steamcommunity.com/id/panicq)
