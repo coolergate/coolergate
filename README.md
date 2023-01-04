@@ -13,7 +13,7 @@ Languages:
 - English
 - Spanish
 - Russian (Learning)
-
+---
 Discord: coolergate#2031
 
 [Roblox](https://www.roblox.com/users/83009214/profile)
