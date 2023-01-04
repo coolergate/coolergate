@@ -1,8 +1,6 @@
 # Coolergate
 > Aka. guilemos2006 / panicq
 
-I have 3 years of experience, been using Studio since 2020.
-
 Programming languages:
 - Lua / Luau
 - TypeScript
