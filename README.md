@@ -1,8 +1,8 @@
-# Guilherme Lemos
 <p>
 	<img height="256px" width="256px" src="channel_profile.jpg" align="right"/>
 	<img height="256px" width="256px" src="sketch.png" align="right"/>
-	<h3 align="center">coolergate / panicq</h3>
+	<h1 align="center">Guilherme Lemos</h1>
+	<p align="center">coolergate / panicq</p>
 	<p align="center">
 		<img height="25px" width="200px" src="https://img.shields.io/badge/cheater!!!!-red" align="center" />
 	</p>
