@@ -24,6 +24,7 @@
 ### Programming languages
 
 - C#
+- C++
 - Lua
 - TypeScript
 
@@ -33,7 +34,6 @@
 - Spanish
 - English
 - Russian
-- Esperanto (lernado)
 
 <p align="center">
  <img src="cat_explode.gif" align="center" height="450px" width="900px" />
